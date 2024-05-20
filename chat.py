@@ -3,7 +3,6 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer, TextStreamer
 import torch
 import os
-import json
 
 # ------------------------ Configuration ------------------------
 
